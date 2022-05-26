@@ -166,19 +166,19 @@ const ContactPage = () => {
           <Right>
             <Title>Contact</Title>
             <ContactItem>
-              <RoomIcon style={{ marginRight: "10px" }} /> Isanova 105/3,
+              <RoomIcon style={{ marginRight: "10px" }} /> GhGhbb street
               c.Bishkek
             </ContactItem>
             <ContactItem>
               <PhoneIcon style={{ marginRight: "10px" }} />
               <a href="tel:5558920234" style={{ fontSize: 16, color: "black" }}>
                 {" "}
-                +996 771 010022
+                +996 771 01010101
               </a>
             </ContactItem>
             <ContactItem>
               <MailOutlineIcon style={{ marginRight: "10px" }} />{" "}
-              almaida@gmail.com
+              pizzafriendly@gmail.com
             </ContactItem>
             <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
           </Right>
